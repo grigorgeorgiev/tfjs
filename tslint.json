@@ -1,4 +1,7 @@
 {
+  "test": {
+    "test-type": [true, "simple-test"]
+  },
   "rules": {
     "array-type": [true, "array-simple"],
     "arrow-return-shorthand": true,
